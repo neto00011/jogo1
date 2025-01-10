@@ -1,0 +1,6 @@
+/* Estilos básicos para o canvas */
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #87CEEB; /* Cor do céu */
+}
